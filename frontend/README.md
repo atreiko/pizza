@@ -21,3 +21,8 @@ index.css
 @tailwind components;
 @tailwind utilities;
 ```
+
+Storybook:  
+`npm i @storybook/react`  
+`npx storybook init`  
+`npm run storybook`  
