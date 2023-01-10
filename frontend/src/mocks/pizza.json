@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "imagePath": "assorti.jpeg",
+    "weight": 555,
+    "title": "Піца Асорті",
+    "ingredients": "Соус томатний, моцарела, салямі, перець, маслини, французькі трави",
+    "price": 215
+  },
+  {
+    "id": 2,
+    "imagePath": "drakon.png",
+    "weight": 554,
+    "title": "Дракон",
+    "ingredients": "Соус томатний, моцарела, гриби, помідор, салямі, халапеньо",
+    "price": 215
+  },
+  {
+    "id": 3,
+    "imagePath": "gavayskaya.png",
+    "weight": 555,
+    "title": "Гавайська",
+    "ingredients": "Вершковий соус, моцарела, куряче філе, ананас, кукурудза",
+    "price": 215
+  },
+  {
+    "id": 4,
+    "imagePath": "karbonara.png",
+    "weight": 555,
+    "title": "Карбонара",
+    "ingredients": "Соус карбонара, моцарела, бекон, шинка, пармезан, часникова олія",
+    "price": 215
+  },
+  {
+    "id": 5,
+    "imagePath": "margarita.png",
+    "weight": 555,
+    "title": "Маргарита",
+    "ingredients": "Соус томатний, моцарела, стиглі томати",
+    "price": 215
+  },
+  {
+    "id": 6,
+    "imagePath": "myunhenskaya.png",
+    "weight": 555,
+    "title": "Мюнхенська",
+    "ingredients": "Соус гірчичний, сир, ковбаски, салямі, цибуля, часникова масло",
+    "price": 215
+  },
+  {
+    "id": 7,
+    "imagePath": "pepperoni.jpeg",
+    "weight": 555,
+    "title": "Пепероні",
+    "ingredients": "Соус томатний, моцарела у поєднанні із палкою ковбаскою пепероні",
+    "price": 215
+  },
+  {
+    "id": 8,
+    "imagePath": "pikante.jpeg",
+    "weight": 555,
+    "title": "Піканте",
+    "ingredients": "Гірчичний соус, моцарела, бекон, куряче філе, сир дорблю",
+    "price": 215
+  },
+  {
+    "id": 9,
+    "imagePath": "vegetarianskaya.png",
+    "weight": 555,
+    "title": "Вегетаріанська",
+    "ingredients": "Соус томатний, моцарела, печериці, томати, перець, маслини",
+    "price": 215
+  }
+]

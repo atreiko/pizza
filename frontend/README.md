@@ -83,3 +83,19 @@ index.tsx
 import { App } from '@app/App';
 ```
 
+### tsconfig-paths-webpack-plugin  
+Fix Error:  
+"Module not found: Can't resolve '@app/mocks/pizza.json'  
+> Storybook doesn't see path @app/..."  
+
+`npm install --save-dev tsconfig-paths-webpack-plugin`
+
+.storybook/main.js
+```js
+const TsconfigPathsPlugin = require('tsconfig-paths-webpack-plugin')
+
+webpackFinal: (config) => {
+  config.resolve.plugins = [new TsconfigPathsPlugin()]
+  return config
+}
+```
