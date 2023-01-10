@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "imagePath": "assorti.jpeg",
+    "image": "assorti.jpeg",
     "weight": 555,
     "title": "Піца Асорті",
     "ingredients": "Соус томатний, моцарела, салямі, перець, маслини, французькі трави",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "imagePath": "drakon.png",
+    "image": "drakon.png",
     "weight": 554,
     "title": "Дракон",
     "ingredients": "Соус томатний, моцарела, гриби, помідор, салямі, халапеньо",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "imagePath": "gavayskaya.png",
+    "image": "gavayskaya.png",
     "weight": 555,
     "title": "Гавайська",
     "ingredients": "Вершковий соус, моцарела, куряче філе, ананас, кукурудза",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "imagePath": "karbonara.png",
+    "image": "karbonara.png",
     "weight": 555,
     "title": "Карбонара",
     "ingredients": "Соус карбонара, моцарела, бекон, шинка, пармезан, часникова олія",
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "imagePath": "margarita.png",
+    "image": "margarita.png",
     "weight": 555,
     "title": "Маргарита",
     "ingredients": "Соус томатний, моцарела, стиглі томати",
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "imagePath": "myunhenskaya.png",
+    "image": "myunhenskaya.png",
     "weight": 555,
     "title": "Мюнхенська",
     "ingredients": "Соус гірчичний, сир, ковбаски, салямі, цибуля, часникова масло",
@@ -49,7 +49,7 @@
   },
   {
     "id": 7,
-    "imagePath": "pepperoni.jpeg",
+    "image": "pepperoni.jpeg",
     "weight": 555,
     "title": "Пепероні",
     "ingredients": "Соус томатний, моцарела у поєднанні із палкою ковбаскою пепероні",
@@ -57,7 +57,7 @@
   },
   {
     "id": 8,
-    "imagePath": "pikante.jpeg",
+    "image": "pikante.jpeg",
     "weight": 555,
     "title": "Піканте",
     "ingredients": "Гірчичний соус, моцарела, бекон, куряче філе, сир дорблю",
@@ -65,7 +65,7 @@
   },
   {
     "id": 9,
-    "imagePath": "vegetarianskaya.png",
+    "image": "vegetarianskaya.png",
     "weight": 555,
     "title": "Вегетаріанська",
     "ingredients": "Соус томатний, моцарела, печериці, томати, перець, маслини",

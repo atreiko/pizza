@@ -1,7 +1,7 @@
 import { FC } from 'react'
 
 interface MenuItemProps {
-  imagePath: string
+  image: string
   weight: number
   title: string
   ingredients: string
@@ -9,7 +9,7 @@ interface MenuItemProps {
 }
 
 export const MenuItem: FC<MenuItemProps> = ({
-  imagePath, 
+  image, 
   weight, 
   title, 
   ingredients, 
@@ -20,7 +20,7 @@ export const MenuItem: FC<MenuItemProps> = ({
       <div className='relative'>
         <img 
           className='object-cover w-full h-[15rem] object-center rounded-t-2xl' 
-          src={imagePath}
+          src={image}
           alt='pizza' 
         />
         <span className='absolute bottom-1.5 right-3 bg-gray-900/50 text-white text-sm px-2 rounded-[2rem]'>{weight} г</span>

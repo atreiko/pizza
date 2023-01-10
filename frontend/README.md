@@ -68,10 +68,18 @@ module.exports = {
 package.json 
 > Change react-scripts to craco
 ```json
+  // "scripts": {
+  //   "start": "react-scripts start",
+  //   "build": "react-scripts build",
+  //   "test": "react-scripts test",
+  //   "storybook": "start-storybook -p 6006 -s public",
+  //   "build-storybook": "build-storybook -s public"
+  // },
+
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
     "storybook": "start-storybook -p 6006 -s public",
     "build-storybook": "build-storybook -s public"
   },
