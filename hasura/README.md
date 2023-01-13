@@ -19,7 +19,7 @@ https://hasura.io/docs/latest/getting-started/docker-simple/
 
 $ `docker-compose up`
 
-====  
+---  
 
 Open: http://localhost:8080/  
 Create DATA - default  
@@ -27,26 +27,26 @@ Copy HASURA_GRAPHQL_METADATA_DATABASE_URL from docker-compose.yaml
 Paste in Database URL -> postgres://postgres:postgrespassword@postgres:5432/postgres  
 Push "Connect database"  
 
-====  
+---  
 
 "Create Table"   
 Frequently used columns -> UUID  
 Configure fields  
 "Add Table"  
 
-====  
+---  
 
 "Insert Row"  
 Enter fields  
 "Save"  
 
-====  
+---  
 
 API  
 Add fields to GriphiQL from menu  
 Push PLAY to get json  
 
-====  
+---  
 
 ## Hasura cli
 
@@ -66,7 +66,7 @@ $ `npm init -y`
 Add .gitignore  
 $ `npm install --save-dev hasura-cli`  
 
-====  
+---  
 
 Doc: Migrations, Metadata and Seeds/Setup  
 
@@ -75,7 +75,7 @@ $ `docker-compose up` (console should be disabled)
 > Open new terminal in hasura dir:  
 $ `npx hasura init pizza --endpoint http://localhost:8080`  
 
-====
+---
 > Move folders 'metadata', 'migrations', 'seeds' and file 'config.yaml' to root directory  
 > Delete empty folder  
 
