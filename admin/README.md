@@ -18,5 +18,3 @@ const buildDataProvider = async () => {
   });
 };
 ```
-
-
