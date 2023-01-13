@@ -1,0 +1,12 @@
+{
+  "name": "hasura",
+  "version": "0.1.0",
+  "description": "Get docker compose file",
+  "license": "MIT",
+  "scripts": {
+    "start": "hasura console"
+  },
+  "devDependencies": {
+    "hasura-cli": "^2.16.1"
+  }
+}

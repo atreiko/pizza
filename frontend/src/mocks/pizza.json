@@ -1,74 +1,74 @@
 [
   {
     "id": 1,
-    "image": "assorti.jpeg",
+    "image": "manhattan.jpeg",
     "weight": 555,
-    "title": "Піца Асорті",
-    "ingredients": "Соус томатний, моцарела, салямі, перець, маслини, французькі трави",
+    "title": "Піца Мангеттен",
+    "ingredients": "(подвійна порція грибів), Гриби, Моцарела, Пепероні, Соус Альфредо",
     "price": 215
   },
   {
     "id": 2,
-    "image": "drakon.png",
+    "image": "pepperoni-w-tomatoes.jpeg",
     "weight": 554,
-    "title": "Дракон",
-    "ingredients": "Соус томатний, моцарела, гриби, помідор, салямі, халапеньо",
+    "title": "Піца Пепероні з томатами",
+    "ingredients": "Моцарела, Пепероні, Помідори, Соус Барбекю",
     "price": 215
   },
   {
     "id": 3,
-    "image": "gavayskaya.png",
-    "weight": 555,
-    "title": "Гавайська",
-    "ingredients": "Вершковий соус, моцарела, куряче філе, ананас, кукурудза",
+    "image": "ham-w-mushrooms.jpeg",
+    "weight": 545,
+    "title": "Піца Шинка та гриби",
+    "ingredients": "Шинка, Гриби, Моцарела, Соус PizzaStack",
     "price": 215
   },
   {
     "id": 4,
-    "image": "karbonara.png",
-    "weight": 555,
-    "title": "Карбонара",
-    "ingredients": "Соус карбонара, моцарела, бекон, шинка, пармезан, часникова олія",
+    "image": "texas.jpeg",
+    "weight": 550,
+    "title": "Піца Техас",
+    "ingredients": "Кукурудза, Цибуля, Гриби, Ковбаски баварські, Моцарела, Соус Барбекю",
     "price": 215
   },
   {
     "id": 5,
-    "image": "margarita.png",
-    "weight": 555,
-    "title": "Маргарита",
-    "ingredients": "Соус томатний, моцарела, стиглі томати",
-    "price": 215
+    "image": "pepperoni.jpeg",
+    "weight": 560,
+    "title": "Піца Пепероні",
+    "ingredients": "Моцарела, Пепероні, Соус PizzaStack",
+    "price": 250
   },
   {
     "id": 6,
-    "image": "myunhenskaya.png",
-    "weight": 555,
-    "title": "Мюнхенська",
-    "ingredients": "Соус гірчичний, сир, ковбаски, салямі, цибуля, часникова масло",
-    "price": 215
+    "image": "margarita.jpeg",
+    "weight": 552,
+    "title": "Піца Маргаріта",
+    "ingredients": "(подвійна порція моцарели), Моцарела, Соус PizzaStack",
+    "price": 250
   },
   {
     "id": 7,
-    "image": "pepperoni.jpeg",
-    "weight": 555,
-    "title": "Пепероні",
-    "ingredients": "Соус томатний, моцарела у поєднанні із палкою ковбаскою пепероні",
-    "price": 215
+    "image": "barbecue.jpeg",
+    "weight": 552,
+    "title": "Піца Барбекю",
+    "ingredients": "Курка, Цибуля, Бекон, Гриби, Моцарела, Соус Барбекю",
+    "price": 255
   },
   {
     "id": 8,
-    "image": "pikante.jpeg",
-    "weight": 555,
-    "title": "Піканте",
-    "ingredients": "Гірчичний соус, моцарела, бекон, куряче філе, сир дорблю",
-    "price": 215
+    "image": "grill-mix.jpeg",
+    "weight": 569,
+    "title": "Піца Гриль Мікс",
+    "ingredients": "Курка, Фрикадельки, Цибуля, Бекон, Болгарський перець, Моцарела, Соус Барбекю",
+    "price": 250
   },
   {
     "id": 9,
-    "image": "vegetarianskaya.png",
-    "weight": 555,
-    "title": "Вегетаріанська",
-    "ingredients": "Соус томатний, моцарела, печериці, томати, перець, маслини",
-    "price": 215
+    "image": "carbonara.jpeg",
+    "weight": 540,
+    "title": "Піца Карбонара",
+    "ingredients": "Цибуля, Бекон, Шинка, Гриби, Моцарела, Соус Альфредо",
+    "price": 250
   }
 ]

@@ -7,14 +7,14 @@
 `npm install tailwindcss postcss autoprefixer -D`  
 `npx tailwindcss init -p`  
 
-tailwind.config.js  
+**tailwind.config.js**  
 ```js
 content: [
   "./src/**/*.{ts,tsx}",
 ],
 ```
 
-index.css  
+**index.css**  
 ```css
 @tailwind base;
 @tailwind components;
@@ -34,7 +34,7 @@ React-app-alias (oklas)
 https://github.com/oklas/react-app-alias  
 `npm install react-app-alias -D`
 
-tsconfig.paths.json  
+**tsconfig.paths.json**  
 ```json
 {
   "compilerOptions": {
@@ -46,12 +46,12 @@ tsconfig.paths.json
 }
 ```
 
-tsconfig.json  
+**tsconfig.json**  
 ```json
 "extends": "./tsconfig.paths.json" // tsconfig! not jsconfig
 ```
 
-craco.config.js
+**craco.config.js**  
 ```js
 const { CracoAliasPlugin } = require('react-app-alias')
 
@@ -65,7 +65,7 @@ module.exports = {
 }
 ```
 
-package.json 
+**package.json**  
 > Change react-scripts to craco
 ```json
   // "scripts": {
@@ -86,7 +86,8 @@ package.json
 ````
 
 > Try to change path in index.tsx
-index.tsx
+
+**index.tsx**  
 ```tsx
 import { App } from '@app/App';
 ```
@@ -98,7 +99,7 @@ Fix Error:
 
 `npm install --save-dev tsconfig-paths-webpack-plugin`
 
-.storybook/main.js
+**.storybook/main.js**  
 ```js
 const TsconfigPathsPlugin = require('tsconfig-paths-webpack-plugin')
 

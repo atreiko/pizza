@@ -10,9 +10,9 @@ const Template: ComponentStory<typeof MenuItem> = (args) => <MenuItem {...args} 
 
 export const View = Template.bind({});
 View.args = {
-  image: '/assets/pizza/assorti.jpeg',
+  image: '/assets/pizza/manhattan.jpeg',
   weight: 555,
-  title: 'Піца Асорті',
-  ingredients: 'Соус томатний, моцарела, салямі, перець, маслини, французькі трави',
+  title: 'Піца Мангеттен',
+  ingredients: '(подвійна порція грибів), Гриби, Моцарела, Папероні, Соус Альфредо',
   price: 215
 }
