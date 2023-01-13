@@ -67,6 +67,7 @@ Add .gitignore
 $ `npm install --save-dev hasura-cli`  
 
 ====  
+
 Doc: Migrations, Metadata and Seeds/Setup  
 
 $ `docker-compose up` (console should be disabled)  
